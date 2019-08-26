@@ -1,6 +1,6 @@
 {
     "name": "http-sig",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "HTTP 参数签名",
     "main": "index.js",
     "scripts": {
