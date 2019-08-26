@@ -1,0 +1,11 @@
+{
+  "name": "http-sig",
+  "version": "0.0.1",
+  "description": "HTTP 参数签名",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mmzp@qq.com",
+  "license": "ISC"
+}
